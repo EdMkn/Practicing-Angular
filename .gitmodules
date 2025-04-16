@@ -1,3 +1,6 @@
 [submodule "first-ng-app"]
 	path = first-ng-app
 	url = https://github.com/EdMkn/second-Angular-App.git
+[submodule "another projects"]
+	path = another projects
+	url = https://github.com/EdMkn/little-projects
