@@ -1,0 +1,3 @@
+[submodule "first-ng-app"]
+	path = first-ng-app
+	url = https://github.com/EdMkn/second-Angular-App.git
